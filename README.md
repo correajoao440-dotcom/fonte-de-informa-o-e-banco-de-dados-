@@ -15,6 +15,20 @@ Nesta apresentação, foi abordado os temas de interesse dos membros da equipe, 
 
 Aula 06/03/26
 
-utilizando software de dseing gráfico "canva", com ferramentas de kickoff e backlog, apresentando a versao final ao cliente 
+utilizando software de desing gráfico "canva", com ferramentas de kickoff e backlog, apresentando a versao final ao cliente 
+
+
+
+
+
+
+
+# Grafíco de Receitas 
+
+Aula 12/03/2026
+
+Pegando de exemplo as receitas do município de São José dos Campos através do portal de transparência da prefeitura
+foi elaborado um gráfico, utilizando software de planilhas "excel".
+
 
 
