@@ -30,5 +30,11 @@ Aula 12/03/2026
 Pegando de exemplo as receitas do município de São José dos Campos através do portal de transparência da prefeitura
 foi elaborado um gráfico, utilizando software de planilhas "excel".
 
+![WhatsApp Image 2026-04-09 at 21 00 47](https://github.com/user-attachments/assets/b190d718-7b40-4554-a3fd-426a21305363)
+
+
+
+# Grafico de dados de SP
+foi utilizado em sala 
 
 
