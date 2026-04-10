@@ -37,6 +37,7 @@ foi elaborado um gráfico, utilizando software de planilhas "excel".
 
 # Grafico de dados de SP
 09/04/2026
+
 Foi elaborado em sala de aula, um gráfico com os dados abertos fornecidos pela secretaria do estado de São Paulo,
 
 
