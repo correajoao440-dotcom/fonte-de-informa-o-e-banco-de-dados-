@@ -18,6 +18,7 @@ Aula 06/03/26
 utilizando software de desing gráfico "canva", com ferramentas de kickoff e backlog, apresentando a versao final ao cliente 
 
 
+![ee5c841f-0f4f-4b12-8d8f-934503a55245](https://github.com/user-attachments/assets/d94c4ec6-f0f7-441c-9a93-f1547eca8df5)
 
 
 
@@ -35,7 +36,7 @@ foi elaborado um gráfico, utilizando software de planilhas "excel".
 
 
 # Grafico de dados de SP
-foi utilizado em sala 
+Foi elaborado em sala de aula, um gráfico com os dados abertos fornecidos pela secretaria do estado de São Paulo,
 
 
 
