@@ -38,3 +38,4 @@ foi elaborado um gráfico, utilizando software de planilhas "excel".
 foi utilizado em sala 
 
 
+
