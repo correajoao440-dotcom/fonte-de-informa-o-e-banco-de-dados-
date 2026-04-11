@@ -38,7 +38,20 @@ foi elaborado um gráfico, utilizando software de planilhas "excel".
 # Grafico de dados de SP
 09/04/2026
 
-Foi elaborado em sala de aula, um gráfico com os dados abertos fornecidos pela secretaria do estado de São Paulo,
+Foi elaborado em sala de aula, gráficos com os dados abertos fornecidos pela secretaria do estado de São Paulo
+utilizando ferramenta de tabela ( Excel ) e as respectivas Fórmulas - Soma, Somases, Máximo, Índice
+
+
+https://docs.google.com/spreadsheets/d/1jmouYkjahRcI8CNoGU0jCMJNTykC_1Q9/edit?usp=drive_link&ouid=101078845047312504381&rtpof=true&sd=true
+
+
+
+
+
+
+
+
+
 
 
 
