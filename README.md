@@ -70,9 +70,13 @@ utilizando ferramenta de tabela ( Excel ) e as respectivas Fórmulas - Soma, Som
 
 https://docs.google.com/spreadsheets/d/1jmouYkjahRcI8CNoGU0jCMJNTykC_1Q9/edit?usp=drive_link&ouid=101078845047312504381&rtpof=true&sd=true
 
+<img width="1049" height="158" alt="5e1c0ce1-3f2f-450b-a0c2-ec1d2be56e0f" src="https://github.com/user-attachments/assets/b3ea91dd-4518-4d69-90aa-529a012fcc52" />
 
+<img width="1106" height="204" alt="0293ab52-3456-4d09-ae18-f01ffe02317c" src="https://github.com/user-attachments/assets/c7a76314-421a-4e88-99c9-fb828ab0e7a9" />
 
+<img width="998" height="266" alt="85105ece-f468-4328-a95e-8cc09c31c2bd" src="https://github.com/user-attachments/assets/e651e587-20ff-4935-88ab-5cc888b699a5" />
 
+<img width="769" height="225" alt="1c8d579e-a4ae-425b-acbe-21f4c5fb58f0" src="https://github.com/user-attachments/assets/47f224f0-a9af-4684-b79e-a54b857a2a5e" />
 
 # 📆16/04/2026-Continuação do Trabalho sobre dados Abertos do Governo
 
@@ -80,6 +84,18 @@ https://docs.google.com/spreadsheets/d/1jmouYkjahRcI8CNoGU0jCMJNTykC_1Q9/edit?us
 [Relatorio_Saude_Profissionais_FINAL-1.xlsx](https://github.com/user-attachments/files/26804696/Relatorio_Saude_Profissionais_FINAL-1.xlsx)
 
 
+
+<img width="1284" height="455" alt="93020bd6-c3ff-4928-a802-f3420b3bf7d7" src="https://github.com/user-attachments/assets/1ec32ded-afd2-4804-baa2-84e7e2286ff7" />
+
+<img width="851" height="326" alt="878eb0e2-b9e4-4e11-9e83-b018fb568e4f" src="https://github.com/user-attachments/assets/700dba44-19d3-43db-a065-243efd7c80d6" />
+
+<img width="758" height="413" alt="a638b13a-b7ea-4059-8f97-0fb41af413eb" src="https://github.com/user-attachments/assets/a41abed0-699c-4201-8512-75174b005844" />
+
+<img width="837" height="295" alt="7fffee7e-a32d-487f-b993-e89a1b2b58ba" src="https://github.com/user-attachments/assets/68d1ab7c-14e9-47a1-b507-cc87a867908a" />
+
+<img width="839" height="285" alt="40aa1123-ff42-42e5-90ea-7a321fdb1dd4" src="https://github.com/user-attachments/assets/278239d2-84d7-4087-97b1-9b3cc7edd439" />
+
+<img width="838" height="375" alt="acf15e27-cd99-4689-8806-607bf13e487c" src="https://github.com/user-attachments/assets/ea4f23fc-7578-4ab1-81dc-faaee3fc0593" />
 
 
 
