@@ -66,14 +66,18 @@ na plataforma de ensino online, APRENDA MAIS.
 
 
 Foi elaborado em sala de aula, gráficos com os dados abertos fornecidos pela secretaria do estado de São Paulo
-utilizando ferramenta de tabela ( Excel ) e as respectivas Fórmulas - Soma, Somases, Máximo, Índice
-
+utilizando ferramenta de tabela ( Excel ) e as respectivas Fórmulas - Soma, Somases, Máximo, Índice.
 
 https://docs.google.com/spreadsheets/d/1jmouYkjahRcI8CNoGU0jCMJNTykC_1Q9/edit?usp=drive_link&ouid=101078845047312504381&rtpof=true&sd=true
 
 
 
 
+
+# 📆16/04/2026-Continuação do Trabalho sobre dados Abertos do Governo
+
+✒️Nova Atividade Realizada utilizando os mesmos princípios da ativação anterior,agora,abordando um tema Diferente.
+[Relatorio_Saude_Profissionais_FINAL-1.xlsx](https://github.com/user-attachments/files/26804696/Relatorio_Saude_Profissionais_FINAL-1.xlsx)
 
 
 
