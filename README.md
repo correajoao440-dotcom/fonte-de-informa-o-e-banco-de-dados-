@@ -98,6 +98,17 @@ https://docs.google.com/spreadsheets/d/1jmouYkjahRcI8CNoGU0jCMJNTykC_1Q9/edit?us
 
 
 
+# 23/04/2026- Montagem de modelo de dashboard
+Na aula,foi elaborado um dashboard utilizando os dados que estão disponibilizados no site
+
+da prefeitura de São José dos Campos.
+
+[Despesas.zip](https://github.com/user-attachments/files/27031744/Despesas.zip)
+
+
+<img width="1301" height="547" alt="Captura de tela 2026-04-23 212456" src="https://github.com/user-attachments/assets/09ae902c-2dc1-4ae0-b18c-6d14cdb2cf84" />
+
+
 
 
 
