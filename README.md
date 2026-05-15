@@ -109,6 +109,32 @@ da prefeitura de São José dos Campos.
 <img width="1301" height="547" alt="Captura de tela 2026-04-23 212456" src="https://github.com/user-attachments/assets/09ae902c-2dc1-4ae0-b18c-6d14cdb2cf84" />
 
 
+# 📆24/04/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo
+
+Nesta Aula, Fizemos 3 Visualizações diferentes pelo PowerBi, Utilizando as Técnicas de Visualização Gráfica
+
+<img width="858" height="397" alt="Captura de tela 2026-05-14 205452" src="https://github.com/user-attachments/assets/98c3c919-3e2e-4db3-b19d-cc6516148a6a" />
+
+
+# 📆30/04/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo
+
+Nesta aula,realizamos uma nova análise nos Sinistros dos meses de Janeiro a Março de 2026
+
+essa análise foi feita, estudando os dados que foram disponibilizados no site do governo de SP
+
+<img width="851" height="364" alt="Captura de tela 2026-05-14 205914" src="https://github.com/user-attachments/assets/ead1b7c2-2caa-4a93-882e-3de77b40a40f" />
+
+
+
+
+
+
+# 📆08/05/2026- Utilizando o PowerBi, Realizamos a Consulta de Dados Abertos do estado de São Paulo - Emprego Formal
+
+Nesta aula,realizamos uma nova análise de dados utilizando a fórmula dax
+
+
+<img width="863" height="337" alt="Captura de tela 2026-05-14 210035" src="https://github.com/user-attachments/assets/c1405035-37f6-4702-9110-7b1044aa3063" />
 
 
 
