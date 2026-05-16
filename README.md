@@ -146,3 +146,24 @@ Google collab.
 
 <img width="912" height="551" alt="Captura de tela 2026-05-15 214728" src="https://github.com/user-attachments/assets/a5e8ece8-cdbc-4655-b703-786d55221f28" />
 
+## 📆15/05/2026 - Criação de gráfico linear
+
+Foi elaborado um gráfico no excel com os dados fornecidos no kaggle
+
+durante a aula, foram fornecidas as instruções necessárias para
+
+a criação da linha linear presente no gráfico.
+
+<img width="1557" height="357" alt="Captura de tela 2026-05-15 222051" src="https://github.com/user-attachments/assets/88049dd8-613d-477b-908c-685d119cfea0" />
+
+
+# 📆15/05/2026 - Criação de gráfico linear
+
+Foi elaborado um gráfico linear sobre o consumo
+
+de cerveja na ciade de São Paulo, os dados foram
+
+extraídos do kaggle.
+https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
+
+<img width="933" height="567" alt="Captura de tela 2026-05-15 220903" src="https://github.com/user-attachments/assets/e438df89-211f-4782-b87c-43fa0e3a2ebd" />
