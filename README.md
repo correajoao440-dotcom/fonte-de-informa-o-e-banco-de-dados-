@@ -138,3 +138,11 @@ Nesta aula,realizamos uma nova análise de dados utilizando a fórmula dax
 
 
 
+# 📆15/05/2026 - Criação de gráfico linear
+
+Na aula, foi realizado um gráfico linear utilizando o 
+
+Google collab.
+
+<img width="912" height="551" alt="Captura de tela 2026-05-15 214728" src="https://github.com/user-attachments/assets/a5e8ece8-cdbc-4655-b703-786d55221f28" />
+
