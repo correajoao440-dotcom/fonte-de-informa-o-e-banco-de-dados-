@@ -136,6 +136,16 @@ Nesta aula,realizamos uma nova análise de dados utilizando a fórmula dax
 
 <img width="863" height="337" alt="Captura de tela 2026-05-14 210035" src="https://github.com/user-attachments/assets/c1405035-37f6-4702-9110-7b1044aa3063" />
 
+# 📆15/05/2026 - Criação de gráfico linear
+
+Foi elaborado um gráfico no excel com os dados fornecidos no kaggle
+
+durante a aula, foram fornecidas as instruções necessárias para
+
+a criação da linha linear presente no gráfico.
+
+
+<img width="1078" height="599" alt="Captura de tela 2026-05-15 223425" src="https://github.com/user-attachments/assets/d456d248-e685-4a8c-80e1-6e2888645598" />
 
 
 # 📆15/05/2026 - Criação de gráfico linear
